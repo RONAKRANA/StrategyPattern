@@ -1,3 +1,3 @@
 # StrategyPattern
-StrategyPattern Example For McKersson
+StrategyPattern Example For McKersson<BR>
 Author Ronak Rana
